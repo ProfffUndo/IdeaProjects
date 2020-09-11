@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6be3bbc0-f90e-4b1a-b8b3-bee5805979bb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,21 +49,17 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1XW5CvAM4sFHzbMbP58nU3v5Vym" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -56,23 +70,29 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Groovy compiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s_myslov\IdeaProjects\IdeaProjects\untitled" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Lab2.ex12" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mephi.Lab5.ex01" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Ex10">
     <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab4.Ex10.Ex10" />
-      <module name="JavaMephiCourse" />
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex10.Ex10" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab4.Ex10.*" />
+          <option name="PATTERN" value="mephi.Lab5.ex10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab3.dopComp.Main" />
-      <module name="JavaMephiCourse" />
+    <configuration name="NewSolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex06.NewSolutions" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab3.dopComp.*" />
+          <option name="PATTERN" value="mephi.Lab5.ex06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab3.dopIter.Main" />
-      <module name="JavaMephiCourse" />
+    <configuration name="ReadValuesErrorCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex04.ReadValuesErrorCodes" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab3.dopIter.*" />
+          <option name="PATTERN" value="mephi.Lab5.ex04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab3.MyFilterIterator.Main" />
-      <module name="JavaMephiCourse" />
+    <configuration name="SumOfReadValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex02.SumOfReadValues" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab3.MyFilterIterator.*" />
+          <option name="PATTERN" value="mephi.Lab5.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab4.Ex12.Main" />
-      <module name="JavaMephiCourse" />
+    <configuration name="SumOfReadValuesInterceptionException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex03.SumOfReadValuesInterceptionException" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab4.Ex12.*" />
+          <option name="PATTERN" value="mephi.Lab5.ex03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NewSolutions" />
+        <item itemvalue="Application.ReadValuesErrorCodes" />
+        <item itemvalue="Application.SumOfReadValuesInterceptionException" />
+        <item itemvalue="Application.SumOfReadValues" />
       </list>
     </recent_temporary>
   </component>
@@ -188,44 +208,59 @@
       <workItem from="1594557075755" duration="888000" />
       <workItem from="1594558037185" duration="60000" />
       <workItem from="1594558939971" duration="1041000" />
+      <workItem from="1599647441221" duration="12181000" />
+      <workItem from="1599757126090" duration="38000" />
+      <workItem from="1599815359065" duration="8322000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1599648685429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599648685429" />
     <state x="801" y="265" width="544" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1591879772977">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="801" y="265" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1591879772977" />
-    <state x="770" y="480" width="832" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587194583534">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="949" y="219" key="FileChooserDialogImpl" timestamp="1599757169735">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="770" y="480" width="832" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587194583534" />
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588637675374">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="949" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599757169735" />
+    <state width="1877" height="882" key="GridCell.Tab.0.bottom" timestamp="1599833900287">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588637675374" />
-    <state x="771" y="296" width="434" height="513" key="FileChooserDialogImpl" timestamp="1587756173922">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="771" y="296" width="434" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1587756173922" />
-    <state width="1807" height="268" key="GridCell.Tab.0.bottom" timestamp="1592030140073">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
     <state width="1807" height="268" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1807" height="268" key="GridCell.Tab.0.center" timestamp="1592030140073">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1877" height="882" key="GridCell.Tab.0.center" timestamp="1599833900287">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
     <state width="1807" height="268" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1807" height="268" key="GridCell.Tab.0.left" timestamp="1592030140073">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1877" height="882" key="GridCell.Tab.0.left" timestamp="1599833900287">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
     <state width="1807" height="268" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1807" height="268" key="GridCell.Tab.0.right" timestamp="1592030140073">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1877" height="882" key="GridCell.Tab.0.right" timestamp="1599833900287">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
     <state width="1807" height="268" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
     <state width="1807" height="309" key="GridCell.Tab.1.bottom" timestamp="1591944240721">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -243,26 +278,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="309" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1590156554933">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590156554933" />
-    <state x="482" y="187" width="1021" height="730" key="SettingsEditor" timestamp="1590850482296">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="482" y="187" width="1021" height="730" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1590850482296" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1594558058238">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1594558058238" />
-    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586534858085">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1586534858085" />
-    <state x="726" y="318" width="524" height="468" key="extract.method.dialog" timestamp="1590170861729">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="726" y="318" width="524" height="468" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590170861729" />
     <state x="732" y="212" width="869" height="807" key="find.popup" timestamp="1591814341627">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -271,13 +290,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="302" y="251" width="1372" height="603" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1594558093416" />
-    <state x="738" y="171" width="500" height="762" key="refactoring.ChangeSignatureDialog" timestamp="1590152050095">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="611" y="223" key="run.anything.popup" timestamp="1599826816792">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="738" y="171" width="500" height="762" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590152050095" />
-    <state x="657" y="253" key="run.anything.popup" timestamp="1591370683834">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
+    <state x="611" y="223" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599826816792" />
     <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1591370683834" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1591905139255">
       <screen x="67" y="27" width="1853" height="1053" />
