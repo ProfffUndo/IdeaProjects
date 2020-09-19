@@ -10,7 +10,9 @@ import java.util.Scanner;
 
 public class ScannerPrintWriter {
     public static void main(String[] args) {
-
+        String scannerPath = "C:\\Users\\s_myslov\\IdeaProjects\\IdeaProjects\\untitled\\doubles.txt";
+        String printWriterPath ="C:\\Users\\s_myslov\\IdeaProjects\\IdeaProjects\\untitled\\doubles2.txt";
+        withoutResourses(scannerPath,printWriterPath);
     }
     public static void withoutResourses (String scannerFileName, String printWriterFileName){
         Scanner scanner = null;
@@ -19,6 +21,9 @@ public class ScannerPrintWriter {
         try {
             scanner = new Scanner (Paths.get(scannerFileName));
             printWriter= new PrintWriter(printWriterFileName);
+            while (scanner.hasNext()) {
+                printWriter.print(scanner.nextLine());
+            }
         }
         catch (FileNotFoundException e){
             e.printStackTrace();

@@ -63,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Greenatom Course" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,7 +86,7 @@
       <recent name="mephi.Lab5.ex01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex10">
+  <component name="RunManager" selected="Application.ExampleChain">
     <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex10.Ex10" />
       <module name="untitled" />
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewSolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex06.NewSolutions" />
+    <configuration name="ExampleChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.dop.tryresoursesstacktrace.ExampleChain" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.ex06.*" />
+          <option name="PATTERN" value="mephi.Lab5.dop.tryresoursesstacktrace.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadValuesErrorCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex04.ReadValuesErrorCodes" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex08.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.ex04.*" />
+          <option name="PATTERN" value="mephi.Lab5.ex08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfReadValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex02.SumOfReadValues" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.dop.tryresoursesstacktrace.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.ex02.*" />
+          <option name="PATTERN" value="mephi.Lab5.dop.tryresoursesstacktrace.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfReadValuesInterceptionException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex03.SumOfReadValuesInterceptionException" />
+    <configuration name="ScannerPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex05.ScannerPrintWriter" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.ex03.*" />
+          <option name="PATTERN" value="mephi.Lab5.ex05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExampleChain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.NewSolutions" />
-        <item itemvalue="Application.ReadValuesErrorCodes" />
-        <item itemvalue="Application.SumOfReadValuesInterceptionException" />
-        <item itemvalue="Application.SumOfReadValues" />
+        <item itemvalue="Application.ScannerPrintWriter" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +210,10 @@
       <workItem from="1594558939971" duration="1041000" />
       <workItem from="1599647441221" duration="12181000" />
       <workItem from="1599757126090" duration="38000" />
-      <workItem from="1599815359065" duration="8322000" />
+      <workItem from="1599815359065" duration="8936000" />
+      <workItem from="1600162123603" duration="332000" />
+      <workItem from="1600425812734" duration="10421000" />
+      <workItem from="1600459232156" duration="9793000" />
     </task>
     <servers />
   </component>
@@ -238,54 +241,54 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="801" y="265" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1591879772977" />
-    <state x="949" y="219" key="FileChooserDialogImpl" timestamp="1599757169735">
+    <state x="949" y="219" key="FileChooserDialogImpl" timestamp="1600162465601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="949" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599757169735" />
-    <state width="1877" height="882" key="GridCell.Tab.0.bottom" timestamp="1599833900287">
+    <state x="949" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600162465601" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1600508403199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="268" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1877" height="882" key="GridCell.Tab.0.center" timestamp="1599833900287">
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1600508403199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="268" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1877" height="882" key="GridCell.Tab.0.left" timestamp="1599833900287">
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1600508403199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="268" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1877" height="882" key="GridCell.Tab.0.right" timestamp="1599833900287">
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1600508403199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="882" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599833900287" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="268" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1807" height="309" key="GridCell.Tab.1.bottom" timestamp="1591944240721">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600508403199">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="309" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state width="1807" height="309" key="GridCell.Tab.1.center" timestamp="1591944240721">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600508403199">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="309" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state width="1807" height="309" key="GridCell.Tab.1.left" timestamp="1591944240721">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600508403199">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="309" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state width="1807" height="309" key="GridCell.Tab.1.right" timestamp="1591944240721">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600508403199">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
     <state width="1807" height="309" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1594558058238">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1594558058238" />
-    <state x="732" y="212" width="869" height="807" key="find.popup" timestamp="1591814341627">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="732" y="212" width="869" height="807" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1591814341627" />
     <state x="302" y="251" width="1372" height="603" key="new project wizard" timestamp="1594558093416">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -294,7 +297,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="611" y="223" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599826816792" />
-    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1591370683834" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1591905139255">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

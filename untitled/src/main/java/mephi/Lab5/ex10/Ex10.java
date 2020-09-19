@@ -16,11 +16,6 @@ public class Ex10 {
     public static long factorial(int num) {
 
         try {
-            /*if (num <= 1) {
-                return 1;
-            } else {
-                return num * factorial(num - 1);
-            }*/
             bad();
         } catch (IllegalArgumentException ex) {
             StackTraceElement[] frames = ex.getStackTrace();

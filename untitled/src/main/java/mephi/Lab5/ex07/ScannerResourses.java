@@ -7,8 +7,8 @@ import java.nio.file.Paths;
 import java.util.Scanner;
 
 public class ScannerResourses {
-    public static void firstExample() throws IOException {
-        try(Scanner in = new Scanner(Paths.get("some/path/...")); PrintWriter out = new PrintWriter("some fileName"))
+    public static void main(){
+        try(Scanner in = new Scanner(Paths.get("C:\\Users\\s_myslov\\IdeaProjects\\IdeaProjects\\untitled\\doubles.txt")); PrintWriter out = new PrintWriter("C:\\Users\\s_myslov\\IdeaProjects\\IdeaProjects\\untitled\\doubles2.txt"))
             {
                 while(in.hasNext())
                     out.println(in.next().toLowerCase());

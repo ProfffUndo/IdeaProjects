@@ -19,7 +19,8 @@ public class ReadValuesErrorCodes {
     public enum Status {SUCCESS, FILE_NOT_FOUND, VALUE_NOT_DOUBLE}
 
     private static Status readValues(String fileName, ArrayList<Double> arrayList) {
-        if (fileName.isEmpty() || fileName == null)
+
+        if (fileName == null || fileName.isEmpty() )
             return Status.FILE_NOT_FOUND;
 
         try (Scanner scanner = new Scanner(new File(fileName))) {
