@@ -14,14 +14,13 @@ public class ReadValuesErrorCodes {
         String filename = "C:\\Users\\s_myslov\\IdeaProjects\\IdeaProjects\\untitled\\doubles.txt";
         ArrayList<Double> arrayList = null;
         sumValues(filename,arrayList);
+
     }
 
     public enum Status {SUCCESS, FILE_NOT_FOUND, VALUE_NOT_DOUBLE}
 
     private static Status readValues(String fileName, ArrayList<Double> arrayList) {
 
-        if (fileName == null || fileName.isEmpty() )
-            return Status.FILE_NOT_FOUND;
 
         try (Scanner scanner = new Scanner(new File(fileName))) {
 
@@ -37,21 +36,27 @@ public class ReadValuesErrorCodes {
         return Status.SUCCESS;
     }
 
+
     public static Status sumValues(String fileName, ArrayList<Double> arrayList) {
 
         Status result = readValues(fileName, arrayList);
 
-        if(result != Status.SUCCESS )
-            return result;
+        if (result == Status.SUCCESS) {
+            double sum = 0;
 
-        double sum=0;
+            for (Double d : arrayList)
+                sum += d;
 
-        for (Double d : arrayList)
-            sum+=d;
+            System.out.printf("Sum is: %f\n", sum);
 
-        System.out.printf("Sum is: %f\n", sum);
-
-        return Status.SUCCESS;
+            return Status.SUCCESS;
+        }
+        else if (result == Status.FILE_NOT_FOUND){
+            System.out.println("Ошибка. Не найден файл.");
+        }
+        else if (result ==Status.VALUE_NOT_DOUBLE) {
+            System.out.println("Ошибка. Значение не double");
+        }
+        return result;
     }
-
 }

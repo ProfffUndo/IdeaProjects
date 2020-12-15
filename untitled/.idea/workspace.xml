@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,7 +22,45 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be3bbc0-f90e-4b1a-b8b3-bee5805979bb" name="Default Changelist" comment="" />
+    <list default="true" id="6be3bbc0-f90e-4b1a-b8b3-bee5805979bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/Ex14/ImmutableList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/Ex14/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/Ex15/ImmutableListIntFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/Ex15/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex10/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex11/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex12/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex13/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex13/CacheIsFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex13/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex16/ImmutableListIntFunctionCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex17/Ex17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex18/Ex18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex8/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex8/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/ex9/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab7/wordsEx7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mephi/Lab3/ex14/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab3/ex14/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mephi/Lab5/dop/tryresoursesstacktrace/ExampleChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mephi/Lab5/dop/tryresoursesstacktrace/ExampleErrorCodevsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab5/dop/tryresoursesstacktrace/ExampleErrorCodevsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mephi/Lab5/dop/tryresoursesstacktrace/ExampleSupressed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mephi/Lab5/dop/tryresoursesstacktrace/ExampleTryFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab5/dop/tryresoursesstacktrace/ExampleTryFinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mephi/Lab5/dop/tryresoursesstacktrace/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mephi/Lab5/ex04/ReadValuesErrorCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mephi/Lab5/ex04/ReadValuesErrorCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/untitled.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab3/ex14/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mephi/Lab3/ex14/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab5/dop/tryresoursesstacktrace/ExampleChain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab5/dop/tryresoursesstacktrace/ExampleErrorCodevsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mephi/Lab5/dop/tryresoursesstacktrace/ExampleErrorCodevsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab5/dop/tryresoursesstacktrace/ExampleSupressed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab5/dop/tryresoursesstacktrace/ExampleTryFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mephi/Lab5/dop/tryresoursesstacktrace/ExampleTryFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab5/dop/tryresoursesstacktrace/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab5/ex04/ReadValuesErrorCodes$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mephi/Lab5/ex04/ReadValuesErrorCodes$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mephi/Lab5/ex04/ReadValuesErrorCodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mephi/Lab5/ex04/ReadValuesErrorCodes.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,15 +83,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="FxmlFile" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1XW5CvAM4sFHzbMbP58nU3v5Vym" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,36 +111,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Greenatom Course" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sweater" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Groovy compiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\s_myslov\IdeaProjects\IdeaProjects\untitled" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mephi.Lab5.ex01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Lab2.ex12" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="mephi.Lab5.ex01" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s_myslov\IdeaProjects\IdeaProjects\untitled" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExampleChain">
-    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex10.Ex10" />
+  <component name="RunManager" selected="Application.Ex12">
+    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab7.ex11.Ex11" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.ex10.*" />
+          <option name="PATTERN" value="mephi.Lab7.ex11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.dop.tryresoursesstacktrace.ExampleChain" />
+    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab7.ex12.Ex12" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.dop.tryresoursesstacktrace.*" />
+          <option name="PATTERN" value="mephi.Lab7.ex12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex08.Main" />
+    <configuration name="Ex17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab7.ex17.Ex17" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.ex08.*" />
+          <option name="PATTERN" value="mephi.Lab7.ex17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.dop.tryresoursesstacktrace.Main" />
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab7.ex7.Ex7" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.dop.tryresoursesstacktrace.*" />
+          <option name="PATTERN" value="mephi.Lab7.ex7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,29 +188,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mephi.Lab5.ex05.ScannerPrintWriter" />
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mephi.Lab7.ex8.Ex8" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mephi.Lab5.ex05.*" />
+          <option name="PATTERN" value="mephi.Lab7.ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExampleChain" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.ScannerPrintWriter" />
+        <item itemvalue="Application.Ex12" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex7" />
+        <item itemvalue="Application.Ex17" />
+        <item itemvalue="Application.Ex11" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -214,11 +275,36 @@
       <workItem from="1600162123603" duration="332000" />
       <workItem from="1600425812734" duration="10421000" />
       <workItem from="1600459232156" duration="9793000" />
+      <workItem from="1601029128132" duration="18882000" />
+      <workItem from="1601057180919" duration="5569000" />
+      <workItem from="1601101364528" duration="7312000" />
+      <workItem from="1601221395906" duration="2036000" />
+      <workItem from="1601631581519" duration="2050000" />
+      <workItem from="1601980153574" duration="203000" />
+      <workItem from="1602247659691" duration="31745000" />
+      <workItem from="1602306327230" duration="5023000" />
+      <workItem from="1602580379553" duration="2204000" />
+      <workItem from="1602761357114" duration="171000" />
+      <workItem from="1603454159301" duration="2585000" />
+      <workItem from="1603457554036" duration="921000" />
+      <workItem from="1603458849264" duration="1816000" />
+      <workItem from="1603520865887" duration="2147000" />
+      <workItem from="1603524819713" duration="699000" />
+      <workItem from="1603967643276" duration="493000" />
+      <workItem from="1604674971539" duration="19773000" />
+      <workItem from="1605003054517" duration="4000" />
+      <workItem from="1605724296594" duration="54059000" />
+      <workItem from="1606226855294" duration="4502000" />
+      <workItem from="1606485346097" duration="7010000" />
+      <workItem from="1606586172344" duration="45000" />
+      <workItem from="1607565790533" duration="15599000" />
+      <workItem from="1607751701984" duration="13467000" />
+      <workItem from="1607786134161" duration="31333000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -237,80 +323,110 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599648685429" />
-    <state x="801" y="265" width="544" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1591879772977">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="531" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1607809343359">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="801" y="265" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1591879772977" />
-    <state x="949" y="219" key="FileChooserDialogImpl" timestamp="1600162465601">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="531" y="153" key="#com.intellij.ide.util.MemberChooser/0.40.1536.824@0.40.1536.824" timestamp="1607809343359" />
+    <state x="520" y="347" width="495" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607815757086">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="520" y="347" width="495" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.40.1536.824@0.40.1536.824" timestamp="1607815757086" />
+    <state x="499" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605887308988">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="499" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1536.824@0.40.1536.824" timestamp="1605887308988" />
+    <state width="403" height="466" key="DebuggerActiveHint" timestamp="1602294627421">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="403" height="466" key="DebuggerActiveHint/0.40.1536.824@0.40.1536.824" timestamp="1602294627421" />
+    <state x="759" y="214" key="FileChooserDialogImpl" timestamp="1606586215221">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="949" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600162465601" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="759" y="214" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1606586215221" />
+    <state width="1496" height="258" key="GridCell.Tab.0.bottom" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="268" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1496" height="258" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state width="1496" height="258" key="GridCell.Tab.0.center" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="268" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1496" height="258" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state width="1496" height="258" key="GridCell.Tab.0.left" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="268" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1496" height="258" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state width="1496" height="258" key="GridCell.Tab.0.right" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="268" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592030140073" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1496" height="258" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state width="1496" height="258" key="GridCell.Tab.1.bottom" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="309" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1496" height="258" key="GridCell.Tab.1.bottom/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state width="1496" height="258" key="GridCell.Tab.1.center" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="309" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1496" height="258" key="GridCell.Tab.1.center/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state width="1496" height="258" key="GridCell.Tab.1.left" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="309" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600508403199">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1496" height="258" key="GridCell.Tab.1.left/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state width="1496" height="258" key="GridCell.Tab.1.right" timestamp="1607962473288">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600508403199" />
-    <state width="1807" height="309" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591944240721" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1594558058238">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1496" height="258" key="GridCell.Tab.1.right/0.40.1536.824@0.40.1536.824" timestamp="1607962473288" />
+    <state x="277" y="40" key="SettingsEditor" timestamp="1601030048639">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1594558058238" />
-    <state x="302" y="251" width="1372" height="603" key="new project wizard" timestamp="1594558093416">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="277" y="40" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1601030048639" />
+    <state x="478" y="51" width="579" height="801" key="find.popup" timestamp="1601102128341">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="302" y="251" width="1372" height="603" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1594558093416" />
-    <state x="611" y="223" key="run.anything.popup" timestamp="1599826816792">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="478" y="51" width="579" height="801" key="find.popup/0.40.1536.824@0.40.1536.824" timestamp="1601102128341" />
+    <state x="254" y="86" key="new project wizard" timestamp="1603968136556">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="254" y="86" key="new project wizard/0.40.1536.824@0.40.1536.824" timestamp="1603968136556" />
+    <state x="469" y="210" key="refactoring.ChangeSignatureDialog" timestamp="1607790205916">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="469" y="210" key="refactoring.ChangeSignatureDialog/0.40.1536.824@0.40.1536.824" timestamp="1607790205916" />
+    <state x="490" y="217" key="run.anything.popup" timestamp="1607814243243">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="611" y="223" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599826816792" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1591905139255">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="490" y="217" key="run.anything.popup/0.40.1536.824@0.40.1536.824" timestamp="1607814243243" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1607813769010">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1591905139255" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1607813769010" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/mephi/Lab1/ex12/ex12.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="4" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/mephi/Lab7/Ex15/ImmutableListIntFunction.java</url>
+          <line>173</line>
+          <properties method="next">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="mephi.Lab6.ex03.Table" memberName="entries" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
