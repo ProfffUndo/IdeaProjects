@@ -8,15 +8,4 @@ public class Cache<K,V> extends LinkedHashMap<K,V> {
          super();
          cacheSize=n;
      }
-Iterable
-    @Override
-    public V put(K key, V value) {
-        V result = null;
-         if (keySet().contains(key)) {
-            result = get(key);
-        }
-         if(size()<cacheSize) super.put(key, value);
-        else throw new CacheIsFullException("Cache is full");
-        return result;
-    }
 }

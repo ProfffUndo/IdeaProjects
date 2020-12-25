@@ -7,8 +7,7 @@ import java.util.*;
 public class Ex8 {
     public static void main(String... args) throws IOException {
         Map<String,Set<Integer>> words = new HashMap<>();
-        Queue
-        Scanner scanner = new Scanner(new File("C:\\GitHub\\IdeaProjects\\untitled\\src\\main\\java\\mephi\\Lab7\\ex8\\words.txt"));
+        Scanner scanner = new Scanner(new File("C:\\GitHub\\IdeaProjects\\untitled\\src\\main\\java\\mephi\\Lab7\\wordsEx7.txt"));
         int lineno = 1;
         while (scanner.hasNextLine()) {
             String line = scanner.nextLine();
